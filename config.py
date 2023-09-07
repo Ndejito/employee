@@ -1,0 +1,6 @@
+customhost = "employee.chtuwf1dmhcm.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Oceanic12345$"
+customdb = "employee"
+custombucket = "addemployee2023"
+customregion = "us-east-1"
